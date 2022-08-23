@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="云计算课程设计:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="root">
+      <element id="archive" name="云计算课程设计.jar">
+        <element id="module-output" name="云计算课程设计" />
+      </element>
+      <element id="library" level="project" name="jars" />
+      <element id="library" level="project" name="scala-sdk-2.12.16" />
+    </root>
+  </artifact>
+</component>
